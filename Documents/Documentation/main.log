@@ -1,0 +1,306 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.4)  31 AUG 2021 13:29
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-15>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\Tim\AppData\Roaming\MiKTeX\2.9\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\keyval.tex"))
+\XKV@depth=\count175
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\Tim\AppData\Roaming\MiKTeX\2.9\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\Tim\AppData\Roaming\MiKTeX\2.9\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(C:\Users\Tim\AppData\Roaming\MiKTeX\2.9\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box45
+)
+\tc@llx=\dimen137
+\tc@lly=\dimen138
+\tc@urx=\dimen139
+\tc@ury=\dimen140
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\Tim\AppData\Roaming\MiKTeX\2.9\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen141
+\adjbox@Height=\dimen142
+\adjbox@Depth=\dimen143
+\adjbox@Totalheight=\dimen144
+\adjbox@pwidth=\dimen145
+\adjbox@pheight=\dimen146
+\adjbox@pdepth=\dimen147
+\adjbox@ptotalheight=\dimen148
+
+(C:\Users\Tim\AppData\Roaming\MiKTeX\2.9\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count176
+)
+(C:\Users\Tim\AppData\Roaming\MiKTeX\2.9\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box46
+\sift@deathcycles=\count177
+\@vwid@loff=\dimen149
+\@vwid@roff=\dimen150
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count178
+\l__pdf_internal_box=\box47
+)
+(main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+ ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count179
+\scratchdimen=\dimen151
+\scratchbox=\box48
+\nofMPsegments=\count180
+\nofMParguments=\count181
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count182
+\MPscratchDim=\dimen152
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
+\everyMPtoPDFconversion=\toks20
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+[1
+
+{C:/Users/Tim/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (9.57014pt too wide) in paragraph at lines 37--38
+[]\OT1/cmr/m/n/10 Number of points in all di-rec-tions in the PRISM
+ []
+
+[2] [3] [4] [5] [6]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 260.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 260.
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Overfull \hbox (78.12279pt too wide) in paragraph at lines 244--301
+\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 check\OT1/cmr/m/n/10 ]!((\OML/cmm/m/it/10 x[]
+pos >\OT1/cmr/m/n/10 = \OML/cmm/m/it/10 obj[]\OT1/cmr/m/n/10 0[]\OML/cmm/m/it/1
+0 min[]x\OT1/cmr/m/n/10 )&(\OML/cmm/m/it/10 y[]pos >\OT1/cmr/m/n/10 = \OML/cmm/
+m/it/10 obj[]\OT1/cmr/m/n/10 0[]\OML/cmm/m/it/10 min[]y\OT1/cmr/m/n/10 )&(\OML/
+cmm/m/it/10 z[]pos >\OT1/cmr/m/n/10 = \OML/cmm/m/it/10 obj[]\OT1/cmr/m/n/10 0[]
+\OML/cmm/m/it/10 min[]z\OT1/cmr/m/n/10 )&(\OML/cmm/m/it/10 x[]pos <\OT1/cmr/m/n
+/10 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Overfull \hbox (78.12279pt too wide) in paragraph at lines 244--301
+\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 check\OT1/cmr/m/n/10 ]!((\OML/cmm/m/it/10 x[]
+pos >\OT1/cmr/m/n/10 = \OML/cmm/m/it/10 obj[]\OT1/cmr/m/n/10 0[]\OML/cmm/m/it/1
+0 min[]x\OT1/cmr/m/n/10 )&(\OML/cmm/m/it/10 y[]pos >\OT1/cmr/m/n/10 = \OML/cmm/
+m/it/10 obj[]\OT1/cmr/m/n/10 0[]\OML/cmm/m/it/10 min[]y\OT1/cmr/m/n/10 )&(\OML/
+cmm/m/it/10 z[]pos >\OT1/cmr/m/n/10 = \OML/cmm/m/it/10 obj[]\OT1/cmr/m/n/10 0[]
+\OML/cmm/m/it/10 min[]z\OT1/cmr/m/n/10 )&(\OML/cmm/m/it/10 x[]pos <\OT1/cmr/m/n
+/10 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--301
+
+ []
+
+[7] [8] [9] (main.aux) ) 
+Here is how much of TeX's memory you used:
+ 2209 strings out of 480799
+ 34975 string characters out of 2905535
+ 278794 words of memory out of 3000000
+ 18217 multiletter control sequences out of 15000+200000
+ 536593 words of font info for 38 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 45i,6n,33p,371b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on main.pdf (9 pages, 126370 bytes).
+PDF statistics:
+ 64 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
